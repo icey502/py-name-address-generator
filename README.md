@@ -1,4 +1,4 @@
-# py-name-address-generator
+# py-name-generator
 This is a quick and dirty tool that I wrote because I had a need to generate a semi-large amount of name/address data in a manner looked semi-realistic, yet could be saved and then loaded in some different formats.
 
 Did I mention "quick" and "dirty"?
